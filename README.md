@@ -1,2 +1,7 @@
 # calculator_with_php
-a simple calculator developed using php
+is a project to develop a basic calculator using PHP that can do basic math 
+like +,-,* and /
+
+
+
+  
