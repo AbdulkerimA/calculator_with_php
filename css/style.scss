@@ -1,0 +1,28 @@
+*{
+    box-sizing: border-box;
+    padding: 0px;
+    margin: 0px;
+}
+
+body{
+    display: flex;
+    position: relative;
+    .cont{
+        border: 1px solid gray;
+        width: 50%;
+        height: 70%;
+        position: relative;
+        margin-top: 15%;
+        margin-left: 25%;
+        display: flex;
+        justify-content: space-evenly;
+        flex-flow: wrap;
+        
+    }
+    div{
+        padding: 1em;
+        margin: 1em;
+        border: 1px solid gray;
+        border-radius: 3px;
+    }
+}
